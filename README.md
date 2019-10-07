@@ -15,3 +15,4 @@ Target: 5
 
 Output: factorial, factorial, root, root, root, root, root, floor.
 
+For this question, my solution is used simple uninformed search method BFS. Since its search space is infinite, the DFS will not work well for this issue. 
