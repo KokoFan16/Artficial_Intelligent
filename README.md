@@ -9,7 +9,9 @@ Give a positive integer as input, and another positive integer as target. You ca
 
 For example: 
 
-Input: 4
+Input: 4 
+
 Target: 5
+
 Output: factorial, factorial, root, root, root, root, root, floor.
 
