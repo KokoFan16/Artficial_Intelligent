@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[222]:
-
-
 import math
 
 
@@ -90,31 +87,7 @@ class Conjectured:
             level += 1           
 
 
-# In[232]:
-
-
 Conjectured(4,5)
-
-
-# In[233]:
-
-
-print("Hello")
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
