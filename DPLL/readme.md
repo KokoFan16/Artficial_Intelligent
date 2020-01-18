@@ -16,4 +16,16 @@ Pseudo code:
 <img src="https://github.com/KokoFan16/Artficial_Intelligent/blob/master/DPLL/dpll.png" width="800" hegiht="600" align=center />
 
 ## Result
-<img src="https://github.com/KokoFan16/Artficial_Intelligent/blob/master/DPLL/result.png" width="300" hegiht="500" align=center />
+
+
+You can check the results of all the test cases with "python3 tester.py --all"
+
+<img src="https://github.com/KokoFan16/Artficial_Intelligent/blob/master/DPLL/result.png" width="400" hegiht="600" align=center />
+
+
+Or check one test case:
+
+- "cd ./test/public-3-clause/"  (A or B and ~A and ~B)
+- python3 ./test.py 
+
+False
